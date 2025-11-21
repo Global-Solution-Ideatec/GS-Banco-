@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="GS-Ideatec" id="78873854-69D0-7768-6488-868BD5D5B364" version="3.5">
+<createdBy>cadup</createdBy>
+<createdTime>2025-11-21 14:59:36 UTC</createdTime>
+<ownerDesignName>GS-Ideatec</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>78873854-69D0-7768-6488-868BD5D5B364</designId>
+</OSDM_Design>

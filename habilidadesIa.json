@@ -1,0 +1,2 @@
+{"_id":{"$oid":"69206919897e4adbb763b114"},"usuarioId":1,"habilidades":["Excel","PowerBI"],"nivel":{"Excel":85,"PowerBI":60},"atualizadoEm":{"$date":"2025-11-21T13:28:57.187Z"}}
+{"_id":{"$oid":"69206919897e4adbb763b115"},"usuarioId":2,"habilidades":["Gestão","Comunicação"],"nivel":{"Gestão":95,"Comunicação":90},"atualizadoEm":{"$date":"2025-11-21T13:28:57.187Z"}}

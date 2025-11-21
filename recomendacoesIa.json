@@ -1,0 +1,2 @@
+{"_id":{"$oid":"69206924897e4adbb763b116"},"usuarioId":1,"mensagem":"Faça uma pausa de 5 minutos para alongar.","tipo":"bem-estar","criadoEm":{"$date":"2025-11-21T13:29:08.269Z"}}
+{"_id":{"$oid":"69206924897e4adbb763b117"},"usuarioId":2,"mensagem":"Você demonstrou habilidade em gestão, considere revisar o relatório mensal.","tipo":"produtividade","criadoEm":{"$date":"2025-11-21T13:29:08.269Z"}}
